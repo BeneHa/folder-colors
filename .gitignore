@@ -1,0 +1,4 @@
+demo/*
+.vscode
+.vscode-test
+node_modules
