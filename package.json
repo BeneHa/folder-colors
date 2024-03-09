@@ -40,5 +40,10 @@
     "baseImagesUrl": "https://github.com/BeneHa/folder-colors.git",
     "dependencies": true,
     "yarn": false
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BeneHa/folder-colors"
+  },
+  "publisher": "beneha"
 }
