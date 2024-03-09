@@ -17,8 +17,14 @@ In the settings, add the folders you want to highlight:
     ]
 ```
 
-![Demo with 2 decorated paths](doc/images/demo.png)
+![Demo with 2 decorated paths](https://github.com/BeneHa/folder-colors/blob/main/doc/images/demo.png?raw=true)
 
 ## Known limitations
 
 When other extensions like the VS Code built-in git integration set a badge on a folder (e.g. to show uncommitted changes) it will override the custom badge.
+
+## Similar extensions
+
+There are similar extensions but none matched quite what I wanted to have for myself. Check them out:
+- [Folder Path Color](https://marketplace.visualstudio.com/items?itemName=VisbyDev.folder-path-color)
+- [FolderColorizes](https://marketplace.visualstudio.com/items?itemName=SergeyEgorov.folder-color)
